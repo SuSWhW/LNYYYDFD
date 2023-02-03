@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"剧情简介","order":1,"parentId":0,"scrollX":819,"scrollY":466},
+{"id":2,"expanded":true,"name":"Area1","order":3,"parentId":7,"scrollX":819,"scrollY":466},
+{"id":3,"expanded":true,"name":"Area2","order":4,"parentId":7,"scrollX":974.5714285714286,"scrollY":762.8571428571428},
+{"id":4,"expanded":true,"name":"Area3","order":5,"parentId":7,"scrollX":974.5714285714286,"scrollY":762.8571428571428},
+{"id":5,"expanded":true,"name":"Area4","order":6,"parentId":7,"scrollX":974.5714285714286,"scrollY":762.8571428571428},
+{"id":6,"expanded":true,"name":"Area5","order":7,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"本篇","order":2,"parentId":0,"scrollX":819,"scrollY":466},
+{"id":8,"expanded":true,"name":"Area6","order":8,"parentId":7,"scrollX":1170.5454545454545,"scrollY":804},
+{"id":9,"expanded":true,"name":"Area7","order":10,"parentId":12,"scrollX":819,"scrollY":466},
+{"id":10,"expanded":true,"name":"H差分固定回想房间","order":11,"parentId":12,"scrollX":1646,"scrollY":1135},
+null,
+{"id":12,"expanded":true,"name":"回想房间","order":9,"parentId":0,"scrollX":771,"scrollY":453.5}
+]

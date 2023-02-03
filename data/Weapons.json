@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":0,"description":"坚固又容易打理的短剑","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":53,"dataId":1,"value":1}],"iconIndex":976,"name":"钢制短剑","note":"","params":[0,0,10,0,10,0,0,0],"price":500,"wtypeId":1},
+{"id":2,"animationId":0,"description":"打击用的手套","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":53,"dataId":1,"value":1}],"iconIndex":727,"name":"test手套","note":"","params":[0,0,0,0,10,0,0,0],"price":500,"wtypeId":1},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
